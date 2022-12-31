@@ -12,4 +12,4 @@
 
 
 ## Get the code!
-##### Get the code from codecanyon[codecanyon](https://codecanyon.net/item/mathhero-multiplayer-online-offline-math-quiz-game/35189908)
+##### Get the code from [codecanyon](https://codecanyon.net/item/mathhero-multiplayer-online-offline-math-quiz-game/35189908)
